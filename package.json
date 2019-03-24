@@ -1,0 +1,31 @@
+{
+  "name": "maxwait",
+  "version": "0.0.1",
+  "description": "A package for timing functions max execution time and timeout once the specified time reached.",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc -p ./tsconfig.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akumzy/maxwait.git"
+  },
+  "keywords": [
+    "timeout",
+    "max-wait",
+    "nodejs",
+    "javascript"
+  ],
+  "author": {
+    "name": "Akuma Isaac Akuma",
+    "email": "akumaisaacakuma@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Akumzy/maxwait/issues"
+  },
+  "homepage": "https://github.com/Akumzy/maxwait#readme",
+  "devDependencies": {
+    "@types/node": "^11.11.6"
+  }
+}
