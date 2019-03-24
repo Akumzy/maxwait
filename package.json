@@ -1,6 +1,6 @@
 {
   "name": "maxwait",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A package for timing functions max execution time and timeout once the specified time reached.",
   "main": "dist/index.js",
   "scripts": {
